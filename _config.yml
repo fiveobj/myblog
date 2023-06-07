@@ -104,6 +104,6 @@ theme: landscape              #主题
 deploy:       #网站的部署
   type: git
   repo: 
-    github: https://github.com/fiveobj/fiveobj.github.io.git  #仓库
+  #  github: https://github.com/fiveobj/myblog.git  #仓库
     coding: https://e.coding.net/my-one/myblog/Wu_SM.coding.me.git
   branch: master  #选择仓库的分支
